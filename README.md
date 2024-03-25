@@ -1,13 +1,17 @@
-<div align="left">
+<div align="center">
   <!--타이틀 부분-->
 <div align="center" width="200">
   <div>
     <h2>SeInLee26</h2>
+  🎓 <b>한성대학교 컴퓨터공학부 (2019.3 ~ )</b> <br/>
   </div>
-  🎓 <b>한성대학교 컴퓨터공학부 (2019.3 ~ )</b> &nbsp;
+  <div align="center">
+  <h3>🖥️ Tech Blog 🖥️</h3>
+  <img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=ffffff" />
+  <hr/>
+  </div>
+  <h3 align="center">Project</h3>
   
- <br/>
-
   |프로젝트명|기간|분야|
   |---|---|---|
   |No-ssu : 쓰레기 위치 공유 플랫폼|2022.7~2022.9|모바일|
@@ -46,24 +50,12 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-f24e1e.svg?style=for-the-badge&logo=Figma&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/figma-f24e1e.svg?style=for-the-badge&logo=Figma&logoColor=ffffff" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/eclipse-2c2255?style=for-the-badge&logo=eclipse-ide&logoColor=ffffff" />&nbsp
-</div>
-
-
-<br>
-<hr/>
-
-<div align="center">
-<h3>🖥️ Tech Blog 🖥️</h3>
-    <img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=ffffff" />&nbsp
-</div>
-
-    
-
+</div>    
 </div>
 </div>
 
