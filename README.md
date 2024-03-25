@@ -1,8 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeInLee26&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeInLee26&layout=compact&theme=tokyonight)
-  &nbsp;
+  <div>
+    https://github-readme-stats.vercel.app/api?username=SeInLee26)&hide=stars,contribs&count_private=true
+  </div>
 </div>
 <hr/>
 <!--내용 부분-->
