@@ -26,7 +26,7 @@
 <h3 align="center">📚 Used it least once 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=arduino&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=ffffff" />&nbsp
+  <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=ffffff" />&nbsp
 </div>
 
 <br>
