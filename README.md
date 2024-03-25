@@ -23,9 +23,9 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">📚 Used it least once 📚</h3>
 <div align="center">
-  
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=styled-components&logoColor=ffffff" />&nbsp
 </div>
 
 <br>
