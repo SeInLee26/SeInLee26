@@ -1,8 +1,10 @@
 <!--타이틀 부분-->
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeInLee26&show_icons=true&theme=radical)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeInLee26&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeInLee26&layout=compact&theme=tokyonight)
   &nbsp;
 </div>
+<hr/>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
