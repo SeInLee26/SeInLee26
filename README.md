@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
   <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeInLee26)&hide=stars,contribs&count_private=true)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeInLee26)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeInLee26)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </div>
 <hr/>
