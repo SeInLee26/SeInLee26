@@ -7,7 +7,8 @@
   </div>
   <div align="center">
   <h3>🖥️ Tech Blog 🖥️</h3>
-  <img src="https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=ffffff" />
+    
+  [![Tech Blog](https://img.shields.io/badge/Velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=ffffff)](https://velog.io/@seinlee26/posts)
   <hr/>
   </div>
   <h3 align="center">Project</h3>
